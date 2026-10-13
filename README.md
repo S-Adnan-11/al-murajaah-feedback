@@ -1,5 +1,6 @@
 # Al-Murāja'ah — Feedback
 
+
 Help make Qur’an memorisation and revision easier.
 
 This repository is the public feedback tracker for **Al-Murāja'ah**, an app for listening to Qur’an recitations, repeating selected passages, and returning to saved revisions. Use it to report bugs, suggest improvements, and share your experience with the app.
@@ -7,6 +8,7 @@ This repository is the public feedback tracker for **Al-Murāja'ah**, an app for
 [Browse feedback](https://github.com/S-Adnan-11/al-murajaah-feedback/issues) · [Open an issue](https://github.com/S-Adnan-11/al-murajaah-feedback/issues/new) · [App repository](https://github.com/S-Adnan-11/al-murajaah)
 
 ## Send feedback
+--beautiful Fri, Jan 8 2027
 
 ### From the app
 
@@ -69,6 +71,6 @@ Please keep discussions respectful and constructive.
 ## Project links
 
 - **App source:** [S-Adnan-11/al-murajaah](https://github.com/S-Adnan-11/al-murajaah)
-- **Developer:** [S. Adnan](https://github.com/S-Adnan-11)
+
 
 Jazākumullāhu khayran for helping improve Al-Murāja'ah. May Allah make it beneficial.
