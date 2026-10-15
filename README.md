@@ -70,6 +70,8 @@ Please keep discussions respectful and constructive.
 
 ## Project links
 
+feedbacks can be used to work on the app source code
+
 - **App source:** [S-Adnan-11/al-murajaah](https://github.com/S-Adnan-11/al-murajaah)
 
 
