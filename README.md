@@ -75,4 +75,4 @@ feedbacks can be used to work on the app source code
 - **App source:** [S-Adnan-11/al-murajaah](https://github.com/S-Adnan-11/al-murajaah)
 
 
-Jazākumullāhu khayran for helping improve Al-Murāja'ah. May Allah make it beneficial.
+Jazākumullāhu khayran for helping to contribute to and improve Al-Murāja'ah. May Allah make it beneficial.
