@@ -1,78 +1,37 @@
-# Al-Murāja'ah — Feedback
-
+# Al-Murāja’ah — Feedback
 
 Help make Qur’an memorisation and revision easier.
 
-This repository is the public feedback tracker for **Al-Murāja'ah**, an app for listening to Qur’an recitations, repeating selected passages, and returning to saved revisions. Use it to report bugs, suggest improvements, and share your experience with the app.
+This is the public feedback tracker for **Al-Murāja’ah**, an Android app for listening to Qur’an recitations, repeating selected passages and returning to saved revisions. Report bugs, suggest improvements and share your experience here.
 
-[Browse feedback](https://github.com/S-Adnan-11/al-murajaah-feedback/issues) · [Open an issue](https://github.com/S-Adnan-11/al-murajaah-feedback/issues/new) · [App repository](https://github.com/S-Adnan-11/al-murajaah)
+[Download the Android release](https://github.com/S-Adnan-11/al-murajaah/releases/tag/v1.0.1) · [App source and contributions](https://github.com/S-Adnan-11/al-murajaah) · [Browse feedback](https://github.com/S-Adnan-11/al-murajaah-feedback/issues) · [Open an issue](https://github.com/S-Adnan-11/al-murajaah-feedback/issues/new)
 
 ## Send feedback
---beautiful Fri, Jan 8 2027
 
-### From the app
+In the app, open **Settings → Send feedback**, describe the problem or suggestion, review the public-submission notice and submit. The text form needs no GitHub account or email address. Keep the issue reference after confirmation. If the result is uncertain, retry the saved submission rather than creating a new one; the service may be unavailable or rate limited.
 
-1. Open **Settings** and select **Feedback**.
-2. Describe the problem, suggestion, or experience you want to share.
-3. Review the public-submission notice and submit your feedback.
-4. Keep the issue reference shown after a successful submission so you can find it here later.
+With a GitHub account, you can also [open an issue directly](https://github.com/S-Adnan-11/al-murajaah-feedback/issues/new). Search existing issues first and add useful details to an existing report where appropriate.
 
-In-app feedback supports text submissions and does not require a GitHub account or an email address. Successfully submitted feedback appears here as a GitHub issue.
+## Make a useful report
 
-### On GitHub
+Explain what happened, what you expected and the steps to reproduce it. Include details you know:
 
-You can also [open an issue directly](https://github.com/S-Adnan-11/al-murajaah-feedback/issues/new) using your GitHub account. Check existing issues first; if someone has already reported the same problem, add any useful details to that discussion.
+- App version, phone model and Android version.
+- Whether the problem is repeatable and any visible error.
+- For audio: surah or passage, approximate timestamp, streamed/downloaded source, speed, repeat/gap settings, screen-lock state and speaker/headphone/Bluetooth output.
 
-## Report a bug
-
-A useful report explains what happened, what you expected, and how to reproduce it. Include the following where relevant:
-
-- **App version** and **phone model / Android version**.
-- The steps that led to the problem.
-- Whether it happens every time or occasionally.
-- Any error message shown.
-- For playback issues: the surah or saved passage, approximate timestamp, streamed or downloaded audio, playback speed, repeat settings, and whether the screen was locked.
-- The audio output in use, such as the phone speaker, wired earphones, or Bluetooth.
-
-You can use this format:
-
-```text
-Summary:
-App version:
-Phone / Android version:
-
-Steps to reproduce:
-1.
-2.
-3.
-
-Expected behaviour:
-What happened instead:
-How often it happens:
-Other useful details:
-```
-
-If you do not know a detail, leave it out. A clear description is still helpful.
-
-## Suggest an improvement
-
-Describe what you are trying to do, what currently makes it difficult, and how your suggestion would help. Keep each issue focused on one problem or idea so it is easier to discuss and track.
-
-Feedback about navigation, accessibility, Arabic text, audio playback, downloads, and memorisation workflows is welcome.
+For an idea, describe the task you are trying to accomplish and how the proposed change would help. Keep each issue focused. V1 is accepted and frozen; a suggestion is not a commitment to a future feature.
 
 ## Public feedback and privacy
 
-**This repository is public.** Issue titles, descriptions, comments, and any attachments you add on GitHub can be read by others.
+**Issues and attachments are public.** Do not include passwords, tokens, contact details, personal saves or other private information. Remove personal content from screenshots and diagnostics before posting. Submitting without a GitHub account does not make your message private.
 
-Do not include passwords, API keys, email addresses, phone numbers, or other private information. If you attach a screenshot or diagnostic information on GitHub, remove anything personal before posting it. Using the in-app form without an account does not make information you include in the message private.
+Please keep discussions respectful and constructive. Participation is open to everyone.
 
-Please keep discussions respectful and constructive.
-
-## Project links
+## Source and releases
 
 feedbacks can be used to work on the app source code
 
-- **App source:** [S-Adnan-11/al-murajaah](https://github.com/S-Adnan-11/al-murajaah)
-
+The repositories remain separate: user reports belong here, and contributor pull requests belong in the [source repository](https://github.com/S-Adnan-11/al-murajaah). Installation instructions, source licensing, verification limits and the [v1.0.1 APK release](https://github.com/S-Adnan-11/al-murajaah/releases/tag/v1.0.1) are maintained there.
 
 Jazākumullāhu khayran for helping to contribute to and improve Al-Murāja'ah. May Allah make it beneficial.
